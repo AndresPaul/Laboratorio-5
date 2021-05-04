@@ -1,0 +1,5 @@
+C:\Users\Andres Paul\Documents\Andres\ARQUI DE SOFTWARE\REPOSITORIO\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.Core\bin\Debug\Patrones.Strategy.Core.dll
+C:\Users\Andres Paul\Documents\Andres\ARQUI DE SOFTWARE\REPOSITORIO\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.Core\bin\Debug\Patrones.Strategy.Core.pdb
+C:\Users\Andres Paul\Documents\Andres\ARQUI DE SOFTWARE\REPOSITORIO\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.dll
+C:\Users\Andres Paul\Documents\Andres\ARQUI DE SOFTWARE\REPOSITORIO\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.pdb
+C:\Users\Andres Paul\Documents\Andres\ARQUI DE SOFTWARE\REPOSITORIO\patr-n-strategy-en-c-sharp-master\Patrones.Strategy\Patrones.Strategy.Core\obj\Debug\Patrones.Strategy.Core.csprojAssemblyReference.cache
